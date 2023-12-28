@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Prediction of Wine Quality](Prediction_of_Wine_quality.html)
+<img src="wine_quality_img.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
