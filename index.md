@@ -10,7 +10,7 @@ I conducted a Machine Learning project focused on predicting wine quality based 
 
 ---
 [Clustering Of Mobile Price on Today's Market](Clustering_of_Mobile_Price.html)<br />
-I led a clustering project using market mobile prices to estimate our company's mobile prices. Employing techniques like PCA, KMeans, t-SNE, and k-Medoids, I aimed to create new cluster labels aligning with the 'price_range' target variable. The analysis involved dimensionality reduction with PCA, clustering with KMeans and k-Medoids, and visualization using t-SNE. The report highlights the efficacy of these methods in creating meaningful price clusters, providing insights for our pricing strategy.
+I led a clustering project using market mobile prices to estimate our (fake) company's mobile prices. Employing techniques like PCA, KMeans, t-SNE, and k-Medoids, I aimed to create new cluster labels aligning with the 'price_range' target variable. The analysis involved dimensionality reduction with PCA, clustering with KMeans and k-Medoids, and visualization using t-SNE. The report highlights the efficacy of these methods in creating meaningful price clusters, providing insights for our pricing strategy.
 <img src="mobile_price_img.png?raw=true"/>
 
 ---
