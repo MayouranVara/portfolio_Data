@@ -4,7 +4,7 @@
 
 ### IA Projects 
 
-[Prediction of Wine Quality](Prediction_of_Wine_quality.html)
+[Prediction of Wine Quality](Prediction_of_Wine_quality.html)<br />
 I conducted a Machine Learning project focused on predicting wine quality based on composition analysis. The analysis encompassed statistical exploration, including data types, missing values, and correlations. For prediction, I applied both regression, using Linear Regression and model comparisons, and classification, employing methods like K-NN, SVM, Decision Trees, and Bayes Classifier. The results underwent visual representation, emphasizing scatter plots and decision trees. The theoretical aspect involved providing algorithmic formalism, detailing parameters, and concluding with method comparisons. The report not only discussed the motivations behind the chosen methods but also analyzed results and proposed potential enhancements, such as combining methods for improved wine quality prediction.
 <img src="wine_quality_img.png?raw=true"/>
 
