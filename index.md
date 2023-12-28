@@ -14,8 +14,9 @@ I led a clustering project using market mobile prices to estimate our (fake) com
 <img src="mobile_price_img.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Estimacloud with OnePoint](ESTIMACLOUD.html)
+I spearheaded a pricing tool project estimating cloud infrastructure costs using Flutter for the web interface. Elasticsearch and Logstash were employed to retrieve real-time cloud service prices, while Flask and the Random Forest machine learning algorithm were utilized for invoice preparation. This comprehensive approach integrates user-friendly design, dynamic pricing data extraction, and machine learning for accurate billing, providing an efficient solution for estimating cloud infrastructure expenses.
+<img src="estimacloud_img.png?raw=true"/>
 
 ---
 
