@@ -34,6 +34,13 @@ In a group project simulating the role of a data consultant at Accenture, our fo
 <img src="acc_logo_black_purple_rgb.png?raw=true"/>
 
 ---
+### Database Management Projects 
 
+[Avanade's Project](Report_avanade.html)<br />
+This Avanade's Project has for objective to enhance the international positioning of EFREI PARIS. For this, the school signed partnerships with several major schools and universities around the globe. it is about having a reporting tool that will allow him to follow the students during their schooling but also in their professional life through the alumni association of which he remains the sponsor. Using a robust data model and management KPIs, the tool should also allow to follow various things like course programming, monitoring the availability of teachers, end of year assessments and exams, payment of tuition fees or salaries of school staffs.
+<img src="logo-avanade.jpg?raw=true"/>
 
-
+---
+[Theatre Organization](Theatre_database_management.html)<br />
+Theater is the art of writing and performing plays but it’s also the structure which have rows seats, from where people can watch a performance. In fact, theaters are less and less watched  by  people  due  to  all  other  activities  deemed  more  interesting.So how can all theatrical companies still survive in these years of digital dominance? To  face  this  problem  some  theatrical  companies  had  the  idea  of  making  a  common management  of  all  their  shows,  so  their  theaters  can  welcome  many  other  theatrical companies and their staff can play in other places and not only on their theater respectively. 
+<img src="Theatre_database_img.png?raw=true"/>
