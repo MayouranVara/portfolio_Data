@@ -21,21 +21,19 @@ I spearheaded a pricing tool project estimating cloud infrastructure costs using
 
 ---
 
-### Category Name 2
+### Visualization Projects 
 
 [Japan Netflix Preferences](Japanese_Netflix_presentation.html)<br />
 In my Tableau-based visualization project on a Netflix database, I addressed four pivotal questions. I utilized visual insights to recommend the optimal streaming platform by analyzing genre popularity, user ratings, and viewer demographics. The decision between a movie or TV show adaptation was informed by visualizing data on runtime, genre trends, and audience engagement. To identify the best TV show or movie type for adaptation, I employed data visualizations highlighting genre preferences, viewer ratings, and popular themes. Lastly, I recommended an appropriate director based on visual analytics, considering factors such as viewer ratings, awards, and genre expertise. This comprehensive approach provides actionable insights for strategic decision-making in content adaptation.
 <img src="Japanese_Netflix_dashboard.PNG?raw=true"/>
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+---
+
+[Accenture's Project](Accenture_project.html)<br />
+In a group project simulating the role of a data consultant at Accenture, our focus was on addressing key challenges for Terrace Solution, a leading online sales platform expanding into the Brazilian market. With an annual growth rate exceeding 11%, Terrace sought insights into this new market's dynamics. Our project team was tasked with providing valuable insights tailored to specific stakeholders. The Brazilian General Manager desired a macroscopic view of sales and conversion rates from email campaigns. Simultaneously, the Business Unit Manager sought detailed information on sales (outstanding/paid) and the status of order deliveries. Through data analytics and visualization, we aimed to deliver actionable insights to support Terrace's strategic decisions and operational efficiency in the Brazilian market.
+<img src="acc_logo_black_purple_rgb.png?raw=true"/>
 
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
