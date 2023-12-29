@@ -23,7 +23,9 @@ I spearheaded a pricing tool project estimating cloud infrastructure costs using
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+[Japan Netflix Preferences](Japanese_Netflix_presentation.html)<br />
+In my Tableau-based visualization project on a Netflix database, I addressed four pivotal questions. I utilized visual insights to recommend the optimal streaming platform by analyzing genre popularity, user ratings, and viewer demographics. The decision between a movie or TV show adaptation was informed by visualizing data on runtime, genre trends, and audience engagement. To identify the best TV show or movie type for adaptation, I employed data visualizations highlighting genre preferences, viewer ratings, and popular themes. Lastly, I recommended an appropriate director based on visual analytics, considering factors such as viewer ratings, awards, and genre expertise. This comprehensive approach provides actionable insights for strategic decision-making in content adaptation.
+<img src="Japanese_Netflix_dashboard.png?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
